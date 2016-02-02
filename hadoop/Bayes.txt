@@ -1,0 +1,2 @@
+Please check https://archive.apache.org/dist/mahout/0.6/
+for the Naive-Bayes implementation on mahout
